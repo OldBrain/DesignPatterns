@@ -12,11 +12,13 @@
         <module>Structural</module>
         <module>Behavioral</module>
         <module>System-Patterns</module>
+        <module>MVC</module>
     </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
 
 </project>
